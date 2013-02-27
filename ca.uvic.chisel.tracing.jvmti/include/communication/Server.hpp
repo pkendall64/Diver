@@ -20,7 +20,9 @@
 
 #include "communication/Command.hpp"
 
+#ifdef WIN32
 #include <windows.h>
+#endif
 
 #include <boost/thread.hpp>
 
