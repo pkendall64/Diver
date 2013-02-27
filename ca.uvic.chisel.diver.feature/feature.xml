@@ -176,7 +176,7 @@ This Agreement is governed by the laws of the State of New York and the intellec
          arch="x86,x86_64"
          download-size="0"
          install-size="0"
-         version="0.4.0.qualifier"
+         version="0.5.0.qualifier"
          fragment="true"/>
 
    <plugin
